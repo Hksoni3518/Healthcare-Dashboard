@@ -1,0 +1,6 @@
+# Healthcare Intelligence Dashboard dependencies
+# Install with: python -m pip install -r requirements.txt
+
+streamlit>=1.38.0
+pandas>=2.2.0
+plotly>=5.20.0
