@@ -2,6 +2,10 @@
 
 A modern healthcare analytics dashboard built with Python and Streamlit. It brings together patient demographics, clinical conditions, admissions, and billing insights into a single interactive reporting interface.
 
+## Live Demo
+
+Open the deployed dashboard: [Healthcare Intelligence Dashboard](https://healthcare-dashboard-h.streamlit.app/)
+
 ## Overview
 
 This project helps healthcare teams explore operational and clinical performance across multiple dimensions, including:
